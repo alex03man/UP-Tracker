@@ -1,4 +1,4 @@
-# UP-Tracker
+# UP and Ease'm
 A Mobile Application that will track data regarding Utility Poles (UPs), along with geolocation, images and the paths they follow. I plan to also include Easement tracking later in the applications lifecycle.
 
 ## Data Dictionary
